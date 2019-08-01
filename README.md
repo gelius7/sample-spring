@@ -8,5 +8,5 @@
 ## Docker
 
 ```bash
-docker pull jamje/sample
+docker pull jamje/sample-spring
 ```
